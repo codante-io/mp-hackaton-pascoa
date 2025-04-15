@@ -3,6 +3,7 @@ Nesta Páscoa, seu desafio é criar easter eggs criativos (sim, aqueles segredos
 
 ## 🤔 Como participar?
 📅 **Data de início**D: 16/04/2025
+
 📅 **Data limite para submissão**: 23/04/2025 às 23:59
 
 ### 👉🏽 Registre sua participação
