@@ -18,6 +18,13 @@ Basta acessar a [página oficial do hackathon](https://codante.io/mini-projetos/
 6. Publicar seu pacote no NPM
 7. Submeter o link do pacote publicado no site do Codante
 
+## 🤔 Premiação
+Abriremos uma live para avaliar as melhores submissões e se atente aos requisitos.
+Serão avaliados critérios como originalidade, execução técnica, usabilidade e fator surpresa.
+
+✨ Premiações:
+ - Voucher de R$100 na cacau show para quem tiver o projeto mais criativo!
+   
 ### 🧩 O Desafio
 Crie um pacote NPM que permita a qualquer site ou aplicação instalar easter eggs personalizados e escondidos.
 
@@ -56,7 +63,10 @@ ativarEasterEggs();
 
 - O código deve estar público em um repositório no GitHub
 
-- Precisa conter um exemplo de uso no README
+- Precisa conter uma publicação no linkedin marcando a Codante
+
+- Precisa conter um exemplo de uso no README e um link referenciando a publicação do linkedin
+
 
 Você não precisa usar nenhuma API obrigatoriamente, mas pode se quiser
 
