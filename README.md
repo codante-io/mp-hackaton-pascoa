@@ -18,14 +18,14 @@ Basta acessar a [página oficial do hackathon](https://codante.io/mini-projetos/
 6. Publicar seu pacote no NPM
 7. Submeter o link do pacote publicado no site do Codante
 
-## 🤔 Premiação
+## 🏆 Premiação
 Abriremos uma live para avaliar as melhores submissões e se atente aos requisitos.
 Serão avaliados critérios como originalidade, execução técnica, usabilidade e fator surpresa.
 
 ✨ Premiações:
  - Voucher de R$100 na cacau show para quem tiver o projeto mais criativo!
    
-### 🧩 O Desafio
+## 🧩 O Desafio
 Crie um pacote NPM que permita a qualquer site ou aplicação instalar easter eggs personalizados e escondidos.
 
 Você pode usar animações, mini-games, interações engraçadas ou até mensagens secretas... o importante é ser criativo!
