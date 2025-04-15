@@ -1,56 +1,3 @@
-# Nome do Mini Projeto
-
-(um parágrafo explicando)
-
-## 🤓 Antes de começar
-
-(Coloque aqui algum setup / boilerplate e explicações se houver. Se não houver, essa seção pode ser apagada)
-
-## 🔨 Requisitos
-
-- Requisito 1
-- Requisito 2
-
-	> 👀 **Dicas:**
-	> - Dica A sobre Req 2.
-	> - Dica B sobre Req 2.
-
-- Requisito 3
-- ...
-
-## 🔨 Desafio extra para quem quer ir além
-
-(Essa seção é opcional)
-
-- Requisito extra 1. 
-- Requisito extra 2.
-
-## 🎨 Design Sugerido
-
-Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar a aplicação conforme a sua criatividade.
-
-### Figma
-
-🔗 [Link do design]()
-
-## 👉🏽 Sobre esse mini-projeto
-
-### O que você irá praticar:
-
-#### React
-
-- Habilidade 1 do React
-- Habilidade 2
-
-#### TailwindCSS
-
-- Habilidade 1 do TailwindCSS
-
-### Pré requisitos
-
-(coloque aqui se houver algum)
-
-
 # 🐰 Hackathon de Páscoa 2025 da Codante
 Nesta Páscoa, seu desafio é criar easter eggs criativos (sim, aqueles segredos escondidos!) e empacotar tudo em um projeto instalável via NPM, que possa ser facilmente adicionado a qualquer site.
 
@@ -121,3 +68,23 @@ Você não precisa usar nenhuma API obrigatoriamente, mas pode se quiser
 ## ❓ Perguntas frequentes
 <details> 
 <summary>Posso usar qualquer tecnologia?</summary>
+	
+```
+Sim! Desde que o resultado seja um pacote NPM utilizável em projetos frontend.
+```
+
+</details>
+
+<details> <summary>Posso fazer com outras pessoas?</summary>
+```
+Sim, projetos em dupla ou em grupo são super bem-vindos.
+```
+</details>
+
+ <details> <summary>O pacote precisa ter uma interface visual?</summary>
+```
+Não necessariamente. Pode ser só no console ou por interações invisíveis. Mas quanto mais divertido e interativo, melhor!
+```
+</details>
+
+
