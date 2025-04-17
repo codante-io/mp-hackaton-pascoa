@@ -8,11 +8,11 @@ Nesta Páscoa, seu desafio é criar easter eggs criativos (sim, aqueles segredos
 
 ### 👉🏽 Registre sua participação
 De **16/04/2025** até **23/04/2025**, qualquer pessoa pode participar gratuitamente do hackathon.
-Basta acessar a [página oficial do hackathon](https://codante.io/mini-projetos/easter-eggs) e seguir os passos:
+Basta acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-de-pascoa-2025) e seguir os passos:
 
 1. Se cadastrar com o seu GitHub no Codante
 2. Clicar em "Participar" do projeto
-3. Fazer o fork do repositório oficial [Link Oficial](https://github.com/codante-io/easter-eggs/fork)
+3. Fazer o fork do repositório oficial [Link Oficial](https://codante.io/mini-projetos/hackathon-de-pascoa-2025/fork)
 4. Clicar em "Verificar fork"
 5. Criar seu pacote NPM com os easter eggs mais criativos do universo
 6. Publicar seu pacote no NPM
