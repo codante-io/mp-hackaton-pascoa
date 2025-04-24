@@ -7,7 +7,7 @@ Nesta Páscoa, seu desafio é criar easter eggs criativos (sim, aqueles segredos
 📅 **Data limite para submissão**: 27/04/2025 às 23:59
 
 ### 👉🏽 Registre sua participação
-De **16/04/2025** até **23/04/2025**, qualquer pessoa pode participar gratuitamente do hackathon.
+De **16/04/2025** até **27/04/2025**, qualquer pessoa pode participar gratuitamente do hackathon.
 Basta acessar a [página oficial do hackathon](https://codante.io/mini-projetos/hackathon-de-pascoa-2025) e seguir os passos:
 
 1. Se cadastrar com o seu GitHub no Codante
